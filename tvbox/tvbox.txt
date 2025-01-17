@@ -23,3 +23,6 @@ CCTV-17农业农村,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/
 江苏,https://live-pc.xuexi.cn/merged/jstv_merge_qhd.m3u8?auth_key=1737158516-0-17371045170883860-2d6e21b175e2fcfa8c50acb2b5d287ac&yid=17371045170883860
 北京,https://live-pc.xuexi.cn/merged/bjtv_merge_qhd.m3u8?auth_key=1737158556-0-17371045570215358-3496814a671d3d4b97c79e465bf48281&yid=17371045570215358
 上海,https://hlszymgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=fd8f427b-672a-4179-ab16-5de40c392f70&mdspid=&spid=699212&netType=0&sid=5500058351&pid=2028597139&timestamp=20250117170803&Channel_ID=0131_10010001005&ProgramID=651632648&ParentNodeID=-99&assertID=5500058351&client_ip=223.101.22.89&SecurityKey=20250117170803&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-8.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&encrypt=c64decf62432d03d317af4c94be739ed&sv=10000&ct=h5
+
+地方,#genre#
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068

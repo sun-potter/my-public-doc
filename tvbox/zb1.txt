@@ -65,11 +65,10 @@ CCTV-17农业农村,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottr
 四川卫视,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
 ⭕央视高清💯,#genre#
-CCTV3,http://www.namewee.xyz/gudou.php?id=364&id=1603
-
 CCTV1,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://www.namewee.xyz/gudou.php?id=364&id=1603
 CCTV4,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -81,9 +80,8 @@ CCTV10,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamo
 CCTV12,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV16,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,http://39.135.133.181:80/wh7f454c46tw2044349660_-1074761762/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1747645711&from=23&hms_devid=1250&online=1747645711&vqe=3
 CCTV17,http://39.135.133.172/wh7f454c46tw2927457857_1209341629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 

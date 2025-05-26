@@ -578,19 +578,7 @@ CEC-3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-\韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-
-
-📺轮播·影剧,#genre#
-邵氏影院,http://hdltctwk.douyucdn2.cn/dyliveflv1a/4246519rkCcOg2vc.m3u8?txSecret
-
-📺轮播·IPTV,#genre#
-IPTV淘精彩,http://happy2015.synology.me:4000/rtp/239.3.1.178:8001
-IPTV萌宠TV,http://happy2015.synology.me:4000/rtp/239.3.1.102:8001
-IPTV淘Baby,http://happy2015.synology.me:4000/rtp/239.3.1.238:8001
-IPTV淘剧场,http://happy2015.synology.me:4000/rtp/239.3.1.95:8001
-IPTV淘电影,http://happy2015.synology.me:4000/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://happy2015.synology.me:4000/rtp/239.3.1.100:8001
+韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 
 📺轮播·斗鱼,#genre#
 斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p

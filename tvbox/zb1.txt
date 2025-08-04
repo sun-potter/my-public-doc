@@ -1,41 +1,29 @@
 央视,#genre#
 
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV3,http://111.43.126.240:9003/hls/15/index.m3u8
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV4,http://111.43.126.240:9003/hls/16/index.m3u8
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV5,http://111.43.126.240:9003/hls/17/index.m3u8
 CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8
 CCTV6,http://111.43.126.240:9003/hls/19/index.m3u8
 CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV7,http://111.43.126.240:9003/hls/20/index.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV8,http://111.43.126.240:9003/hls/21/index.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV9,http://111.43.126.240:9003/hls/22/index.m3u8
 CCTV10,http://111.43.126.240:9003/hls/23/index.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV11,http://111.43.126.240:9003/hls/24/index.m3u8
 CCTV11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV12,http://111.43.126.240:9003/hls/25/index.m3u8
 CCTV12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://111.43.126.240:9003/hls/26/index.m3u8
 CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
 CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV16,https://smart.pendy.dpdns.org/Smart.php?id=cctv16
@@ -43,12 +31,47 @@ CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
 CCTV17,https://smart.pendy.dpdns.org/Smart.php?id=cctv17
 
 
+卫视,#genre#
+北京卫视,http://ygbh.site/php/bfgd.php?id=083
+东方卫视,http://ygbh.site/php/bfgd.php?id=093
+湖南卫视,http://ygbh.site/php/bfgd.php?id=086
+广东卫视,http://ygbh.site/php/bfgd.php?id=092
+深圳卫视,http://ygbh.site/php/bfgd.php?id=100
+广西卫视,http://ygbh.site/php/bfgd.php?id=116
+江苏卫视,http://ygbh.site/php/bfgd.php?id=085
+江西卫视,http://ygbh.site/php/bfgd.php?id=098
+海南卫视,http://ygbh.site/php/bfgd.php?id=473
+东南卫视,http://ygbh.site/php/bfgd.php?id=483
+河北卫视,http://ygbh.site/php/bfgd.php?id=108
+河南卫视,http://ygbh.site/php/bfgd.php?id=339
+河南卫视,http://ygbh.site/php/bfgd.php?id=104
+黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095
+湖北卫视,http://ygbh.site/php/bfgd.php?id=102
+吉林卫视,http://ygbh.site/php/bfgd.php?id=097
+山东卫视,http://ygbh.site/php/bfgd.php?id=099
+山西卫视,http://ygbh.site/php/bfgd.php?id=109
+陕西卫视,http://ygbh.site/php/bfgd.php?id=512
+陕西卫视,http://ygbh.site/php/bfgd.php?id=114
+四川卫视,http://ygbh.site/php/bfgd.php?id=103
+天津卫视,http://ygbh.site/php/bfgd.php?id=084
+西藏卫视,http://ygbh.site/php/bfgd.php?id=121
+云南卫视,http://ygbh.site/php/bfgd.php?id=482
+云南卫视,http://ygbh.site/php/bfgd.php?id=115
 
 
-
-
-
-
+辽宁,#genre#
+辽宁卫视,http://ygbh.site/php/bfgd.php?id=058
+辽宁都市,http://ygbh.site/php/bfgd.php?id=610
+辽宁北方,http://ygbh.site/php/bfgd.php?id=071
+辽宁公共,http://ygbh.site/php/bfgd.php?id=077
+辽宁公共,http://ygbh.site/php/bfgd.php?id=481
+辽宁教育青少,http://ygbh.site/php/bfgd.php?id=075
+辽宁经济,http://ygbh.site/php/bfgd.php?id=480
+辽宁经济,http://ygbh.site/php/bfgd.php?id=076
+辽宁生活,http://ygbh.site/php/bfgd.php?id=073
+辽宁体育,http://ygbh.site/php/bfgd.php?id=611
+辽宁新动漫,http://ygbh.site/php/bfgd.php?id=140
+辽宁影视剧,http://ygbh.site/php/bfgd.php?id=070
 
 
 

@@ -19,6 +19,7 @@ CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=fa7ddf6d0dc824511c5b481c
 CCTV-4 欧洲,https://migu.188766.xyz/?migutoken=e278507798b91001652d9753730806c4&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV-4 美洲,https://migu.188766.xyz/?migutoken=e868f8ff515f75cfe6dd528ecf6d7de4&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 
+卫视,#genre#
 湖南卫视,https://migu.188766.xyz/?migutoken=4aa75e02c7a3d909063a5c6e5a13b15b&id=hnws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=92ecf0e9bc533e83a8084b81b12fd523&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=14bfcc0e04cec732b01613210735a66d&id=z_jws&type=sz
@@ -40,7 +41,7 @@ CCTV-4 美洲,https://migu.188766.xyz/?migutoken=e868f8ff515f75cfe6dd528ecf6d7de
 兵团卫视,https://migu.188766.xyz/?migutoken=759b8b78e66f85aac72076cab19ad465&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=2513e04e6871b2212c41037624205d0c&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 
-
+影视,#genre#
 CHC家庭影院,https://migu.188766.xyz/?migutoken=a93fd1e06c182fdf23f40718a25f5bc6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=1597e6b5127bd0bdc95281586a3d06df&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=42d80e46282c7baad542bed8fb7ba196&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy

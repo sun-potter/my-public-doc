@@ -41,7 +41,7 @@ CCTV-4 美洲,https://migu.188766.xyz/?migutoken=e868f8ff515f75cfe6dd528ecf6d7de
 兵团卫视,https://migu.188766.xyz/?migutoken=759b8b78e66f85aac72076cab19ad465&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=2513e04e6871b2212c41037624205d0c&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 
-卫视,#genre#
+影视,#genre#
 CHC家庭影院,https://migu.188766.xyz/?migutoken=a93fd1e06c182fdf23f40718a25f5bc6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=1597e6b5127bd0bdc95281586a3d06df&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=42d80e46282c7baad542bed8fb7ba196&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
